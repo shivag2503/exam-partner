@@ -21,6 +21,7 @@ if(!empty($_POST['email']) && !empty($_POST['password'])):
 		header( 'Location: homepage.php' );
 	} else{
 		$message = 'Sorry, those credentials do not match';
+		/* if your credentisals do not match then it will give this message.*/
 	}
 endif;
 ?>
