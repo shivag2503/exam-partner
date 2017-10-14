@@ -1,8 +1,10 @@
 /* following code is written in PHP.*/
 <?php
- 
+
+/* session will start after this.*/
 session_start();
 
+/* it will call value from database.*/
 require 'database.php';
 if(!empty($_POST['email']) && !empty($_POST['password'])):
 
