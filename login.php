@@ -1,3 +1,4 @@
+/* following code is written in PHP.*/
 <?php
  
 session_start();
