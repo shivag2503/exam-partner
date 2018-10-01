@@ -1,9 +1,9 @@
 What is Exam Partner
 ====================
 
-Exam partner is based on PHP.Using this project anyone can learn how to start with Dynamic web development.
-This website is fully responsive in desktop and also in mobile.
-This website contain Login and Register features for getting users data.
+Exam partner is based on PHP.Using this project anyone can learn how to start with <b>Dynamic web development</b>.
+This website is fully responsive in <b>desktop and also in mobile</b>.
+This website contain <b>Login and Register</b> features for getting users data.
 
 Release Infromation
 ===================
